@@ -1,0 +1,11 @@
+﻿  baseObject.cpp
+  character.cpp
+  Game.cpp
+  imagemanager.cpp
+  main.cpp
+  player.cpp
+  Generating code
+  All 87 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameProject.vcxproj -> C:\Users\James\Documents\Sync\College\E3\Year 2\Project\GameProject\Release\GameProject.exe
+  GameProject.vcxproj -> C:\Users\James\Documents\Sync\College\E3\Year 2\Project\GameProject\Release\GameProject.pdb (Full PDB)
